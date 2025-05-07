@@ -2,11 +2,11 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #FFF8DC; /* Light yellow background */
+  background-color: #FFF8DC; 
 }
 
 header {
-  background-color: #FFA500; /* Orange */
+  background-color: #FFA500; 
   color: white;
   text-align: center;
   padding: 30px 0;
@@ -21,7 +21,7 @@ header {
 }
 
 .about h2 {
-  color: #FF8C00; /* Darker orange heading */
+  color: #FF8C00; 
 }
 
 .container {
@@ -34,7 +34,7 @@ header {
   background-color: white;
   padding: 20px;
   margin-bottom: 20px;
-  border-left: 5px solid #FFD700; /* Gold accent */
+  border-left: 5px solid #FFD700; 
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
